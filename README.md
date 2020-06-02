@@ -1,4 +1,4 @@
 # hello-world
-hi all.
+Hi all.
 This is my first github project.
-Happy to start it.
+Happy to start with it.
